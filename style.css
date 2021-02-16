@@ -312,5 +312,11 @@ header.sticky ul li a{
     color:black;
 }
 
+.copyright{
 
+    background: black;
+    color:white;
+    text-align: center;
+    padding: 10px;
+}
 
